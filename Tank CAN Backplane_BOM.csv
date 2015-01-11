@@ -1,0 +1,4 @@
+Qty-1,Part References,Value,Package,Mfg Part Num,Mfg Name,VID,Vendor Part Num,Description,Type,Tolerance,Voltage Rating,Package,Value,XREF
+5,"X-201, X-202, X-203, X-204, X-205",,M12-VERT-PCB,43-01169,Conec,DK,626-1497-ND,CONN RCPT PNL MNT 5POS PIN PCB,Connector,*,*,M12,*,REF255
+1,"X-313",,MICROFIT-2-SINGLE-VERT-SMD,43045-0218,Molex,NW,28M9399,Micro-Fit header, 2pos, vert, SMT, Solder Tab Retention, Tin Plating,Connector,*,*,*,*,REF48
+9,"X-314, X-315, X-316, X-317, X-318, X-319, X-320, X-321, X-322",,MICROFIT-6-VERT-SMD-CLIP_RETENTION,43045-0615,Molex,DK,WM6688CT-ND,Micro-Fit header, 6pos, vertical, SMT, Press-Fit Retention, Tin Plating,Connector,*,*,*,*,REF68
